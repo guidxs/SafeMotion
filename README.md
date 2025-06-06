@@ -16,7 +16,7 @@ Em situações de queda de energia, a visibilidade é drasticamente reduzida, di
   - A **imagem capturada**.
   - A **localização estimada** da câmera.
 
-Tudo isso ocorre **sem necessidade de hardware externo** como Arduino ou ESP32, utilizando apenas a webcam do computador e software Python.
+Tudo isso ocorre utilizando apenas a webcam do computador e software Python.
 
 ## 🎯 Objetivo
 
